@@ -1,9 +1,13 @@
+
 # Northwind SQL + Tableau Dashboard
 
 Business analysis of Northwind trading company using SQL and Tableau Public.
 
 ## Live Dashboard
-[View Northwind Sales Dashboard on Tableau Public](PASTE_YOUR_LINK_HERE)
+[View Northwind Sales Dashboard on Tableau 
+Public] 
+(https://public.tableau.com/views/NorthwindSalesDashboard_17825221072750/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Northwind Dashboard](images/dashboard.png)
 
 ## Business Questions Answered
 - Which countries generate the most revenue?
